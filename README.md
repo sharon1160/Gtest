@@ -1,2 +1,2 @@
 # Gtest
-Unit tests with GTest and VScode.
+Unit testing with GTest on Ubuntu and VScode.
