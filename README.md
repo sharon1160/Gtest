@@ -1,2 +1,2 @@
 # Gtest
-Pruebas Unitarias con GTest en Ubuntu y en VScode.
+Unit tests with GTest and VScode.
